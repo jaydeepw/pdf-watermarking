@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "encrypt-decrpt-pdf": "^1.0.11",
+    "file-system": "^2.2.2",
+    "node-qpdf": "^1.0.3",
+    "pdf-lib": "^1.17.1"
+  }
+}
